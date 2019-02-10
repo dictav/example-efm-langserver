@@ -1,0 +1,6 @@
+languages:
+  text:
+   lint-command: '/path/to/sample-efm-langserver/mylint'
+   lint-stdin: true
+   lint-formats:
+     - '%f: %l: %m'

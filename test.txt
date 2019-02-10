@@ -1,0 +1,6 @@
+This is a example
+This file is not wrong something
+But `mylint` always outputs error messages
+And returns status code 1
+So lines from 1 to 4 are always signed as failure
+:)

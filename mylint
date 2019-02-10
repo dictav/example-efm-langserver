@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo stdin: 1: Hello, LangServer!
+echo stdin: 2: Hello, LangServer!
+echo stdin: 3: Hello, LangServer!
+echo stdin: 4: Hello, LangServer!
+exit 1
